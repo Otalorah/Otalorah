@@ -1,16 +1,25 @@
-## Hi there 👋
+# I'm Otalorah 👑
 
-<!--
-**Otalorah/Otalorah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student with a love for creating innovative solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Otalorah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otalorah&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![Otalorah's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Otalorah&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/juan-manuel-otalora-hernandez/))
+
+## Projects
+### BrokerView 📊
+Page with graphs and images to visualize data. [GitHub Repo](https://github.com/Otalorah/BrokerView)
+
+### API BrokerView 📁
+The API to the platform BrokerView. [GitHub Repo](https://github.com/Otalorah/API_BrokerView)
