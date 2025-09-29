@@ -17,6 +17,3 @@ The API to the platform BrokerView. [GitHub Repo](https://github.com/Otalorah/AP
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/juan-manuel-otalora-hernandez/))
-
-## 🏆 GitHub Trophies
-![Otalorah's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Otalorah&theme=radical)
